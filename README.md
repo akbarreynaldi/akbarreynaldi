@@ -1,6 +1,6 @@
 # Reynaldi Akbar Maulana - @akbarreynaldi
 
-:wave: Hey! I'm a software engineer [PT. Asuransi Kredit Indonesia](https://askrindo.co.id) one of the State-Owned Enterprises (BUMN) which is engaged in insurance/guarantee, cannot be separated from the economic development of the Nation and the Republic of Indonesia.
+:wave: Hey! I'm a software engineer [PT. Asuransi Kredit Indonesia](https://askrindo.co.id) one of the *Badan Usaha Milik Negara* (BUMN) which is engaged in insurance/guarantee.
 
 ### :speech_balloon: Get in touch
 - Email: akbarreynaldi77@gmail.com
