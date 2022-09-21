@@ -4,7 +4,7 @@
 
 ### :speech_balloon: Get in touch
 - Email: akbarreynaldi77@gmail.com
-- Instagram: [@akbarreynaldi](https://instagram.com/akbarreynaldi_)
+- Instagram: [@akbarreynaldi_](https://instagram.com/akbarreynaldi_)
 - Linkedin: https://linkedin.com/in/akbarreynaldi
 
 <h3 align="left">Languages and Tools:</h3>
