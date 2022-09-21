@@ -7,7 +7,7 @@
 - Instagram: https://instagram.com/akbarreynaldi_
 - Linkedin: https://linkedin.com/in/akbarreynaldi
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
