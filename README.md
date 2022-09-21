@@ -1,13 +1,13 @@
 # Reynaldi Akbar Maulana - @akbarreynaldi
 
-:wave: Hey! I'm a software engineer [PT. Asuransi Kredit Indonesia](https://askrindo.co.id) working on 
+:wave: Hey! I'm a software engineer [PT. Asuransi Kredit Indonesia](https://askrindo.co.id) one of the State-Owned Enterprises (BUMN) which is engaged in insurance/guarantee, cannot be separated from the economic development of the Nation and the Republic of Indonesia.
 
 ### :speech_balloon: Get in touch
 - Email: akbarreynaldi77@gmail.com
 - Instagram: https://instagram.com/akbarreynaldi_
 - Linkedin: https://linkedin.com/in/akbarreynaldi
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
