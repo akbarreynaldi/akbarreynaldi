@@ -2,7 +2,7 @@
 
 :wave: Hey! I'm a software engineer [PT. Asuransi Kredit Indonesia](https://askrindo.co.id) working on 
 
-### : speech balloon: Get in touch
+### :speech balloon: Get in touch
 - Email: akbarreynaldi77@gmail.com
 - Instagram: https://instagram.com/akbarreynaldi_
 - Linkedin: https://linkedin.com/in/akbarreynaldi
