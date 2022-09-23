@@ -1,6 +1,6 @@
 # Reynaldi Akbar Maulana - @akbarreynaldi
 
-:wave: Hey! I'm a software engineer [PT. Asuransi Kredit Indonesia](https://askrindo.co.id) one of the *Badan Usaha Milik Negara* (BUMN) which is engaged in insurance/guarantee.
+:wave: Hey! I'm a junior software engineer at [PT. Asuransi Kredit Indonesia](https://askrindo.co.id) one of the *Badan Usaha Milik Negara* (BUMN) which is engaged in insurance/guarantee.
 
 ### :speech_balloon: Get in touch
 - Email: akbarreynaldi77@gmail.com
